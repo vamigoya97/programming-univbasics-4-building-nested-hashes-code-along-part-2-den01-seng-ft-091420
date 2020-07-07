@@ -8,7 +8,7 @@ def update_status
             {name: "Benvolio", age: "17", attitude: "worried"},
             {name: "Mercutio", age: "18", attitude: "hot-headed"}
          ]
-      }
+      },
       :capulet => {
          :patriarch => {name: "Lord Capulet", age: "50"},
          :matriarch => {name: "Lady Capulet", age: "51"},
@@ -40,7 +40,7 @@ def add_characters
             {name: "Benvolio", age: "17", attitude: "worried"},
             {name: "Mercutio", age: "18", attitude: "hot-headed"}
          ]
-      }
+      },
       :capulet => {
          :patriarch => {name: "Lord Capulet", age: "50"},
          :matriarch => {name: "Lady Capulet", age: "51"},
